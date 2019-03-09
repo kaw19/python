@@ -1,5 +1,5 @@
 # python
-Material para aprendizagem da Ling. Python
+Material para aprender a Linguagem de Programação Python
 - Apostila
 - Slides
 - Indicação de bibliografias
