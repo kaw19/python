@@ -1,0 +1,32 @@
+Dicas sobre a linguagem Markdown usada no Jupyter Notebook:
+1. Para texto ITALICO: 					*Itálico* ou _Itálico_
+2. Para texto NEGRITO: 					**Negrito** ou __Itálico__
+3. Para texto ITALICO/NEGRITO:				***Itál/neg*** ou ___Itál/neg___
+4. Para texto RISCADO (strike):				<s>RISCADO</s>
+3. Item de Lista com bala (bullet): 	dash and space 	- ou + ou *
+4. Item de Lista numerada: 		número e ponto 	1.
+5. Texto Indentado (citação em bloco):	maior e espaço 	>
+6. Linha de código/script (inic/fim):	acento crase 	`C:\> dir *txt`
+7. Bloco de código (início e fim):	três crases     ``` python
+							print(A)
+							```
+8. Ligação a uma seção: 		[Título da Seção](#titulo-da-secao)
+9. Hyperlink: 				[Texto](URL)
+10. Inserção de imagem:			![texto altern.](arquivo_imagem.png/jpg/gif/... "título")
+11. Linha horizontal:			três ou mais * ou -
+12. Escapes				\* para *, \$ para $, \\ para \
+
+
+O WinPython é uma distribuição portátil de código aberto da linguagem de programação Python para Windows XP/7/8, projetada para cientistas, suportando versões de 32 e 64 bits do Python 2 e Python 3. Desde setembro de 2014, o Desenvolimento mudou para https://winpython.github.io/ 
+
+Características: 
+- Projetado para usuários científicos regulares: processamento de dados interativo e visualização usando Python com Spyder 
+- Projetado para usuários científicos avançados e desenvolvedores de software: desenvolvimento de aplicativos Python com Spyder, controle de versão com o Mercurial e outras ferramentas de desenvolvimento (como gettext, etc.) 
+- Portátil: pré-configurado, ele deve rodar sem problemas em qualquer máquina Windows (sem qualquer requisito) e a pasta que contém o WinPython pode ser movida para qualquer dispositivo (HD local, rede ou unidade removível) com a maioria das configurações do aplicativo 
+- Flexível: pode-se usar quantas versões do WinPython forem necessárias (como ambientes isolados e auto-consistentes), mesmo que elas executem versões diferentes do Python (2.7, 3.x) ou arquiteturas diferentes (32 ou 64 bits) na mesma máquina 
+- Personalizável: O gerenciador de pacotes integrado (wppm - WinPython Package Manager) ajuda a instalar, desinstalar ou atualizar pacotes Python. Como o WPPM pode não suportar alguns pacotes, também é possível instalar ou atualizar pacotes usando "easy_install" ou "pip" no prompt de comando do WinPython. Um arquivo de configuração permite definir variáveis ??de ambiente em tempo de execução.
+
+Instalação:
+- Download: acesse https://sourceforge.net/projects/winpython/ e clique o botão verde <Download>. Aguarde a finalização do download da versão mais recente do WinPython...
+- Descompactação: clique sobre o arquivo baixado e escolha o diretório em que será descompactado o arquivo-bolha do WinPython, e aguarde o final... e clique no botão <Finish>.
+- Execução: 
