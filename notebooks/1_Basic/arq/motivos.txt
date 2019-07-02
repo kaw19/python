@@ -1,0 +1,6 @@
+Cinco motivos para se aprender Python:
+- Fácil aprendizagem, principalmente para iniciantes
+- Versatilidade
+- Multiplataforma
+- Comunidade crescente
+- Mercado de trabalho

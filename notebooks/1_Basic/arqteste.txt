@@ -1,0 +1,1 @@
+Teste de gravação em arquivo, para tratamento de exceção!!
