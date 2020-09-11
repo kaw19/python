@@ -3,9 +3,10 @@ Material para aprender a Linguagem de Programação Python
 - Apostila
 - Slides
 - Indicação de bibliografias
+- Mapas Mentais (baixe o aplicativo [**Free Mind**](https://freemind.br.uptodown.com/windows))
 
-# Curso presencial - Introdução ao Python 
-- Local: IFG, Campus Goiânia/GO
-- Período: 12/03/19 a 02/04/19 
-- Horário: 14:00 às 17:15 h
-- Mais informações e inscrição: https://goo.gl/forms/cmLHE8rWULcTAujz1
+# Curso à distância - Introdução à Ling. Python 
+- Local: Sala Virtual Google Meet -  https://meet.google.com/ces-jsvd-oyp
+- Período: 01/09/2020 a 01/10/2020 
+- Horário: Terças e Quintas, das 15:30 às 16:30 h
+
