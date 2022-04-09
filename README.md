@@ -18,3 +18,9 @@ Material para aprender a Linguagem de Programação Python
 - Local: Sala Virtual [Google Meet](https://meet.google.com/ces-jsvd-oyp)
 - Período: 11/12/2020 a 23/12/2020 
 - Horário: Terças, Quartas e Quintas, das 17:00 às 19:00 h (10 min. intervalo)
+## Turma 7 - Curso Intensivo
+- Local: Sala Virtual [Google Meet](https://meet.google.com/nkd-avdd-ypp)
+- Período: 07/04/2022 a 26/04/2022 
+- Horário: Terças e Quintas, das 14:30 às 16:00 h (10 min. intervalo)
+- Objetivos: Introduzir a ling. de programação Python para estudantes das engenharias, para aplicação nas diversas disciplinas do curso, mais especificamente em SISTEMAS LINEARES e  PROC. DIG. DE SINAIS.
+- Pré-requisito: Conhecer lógica de programação e ling. C.
