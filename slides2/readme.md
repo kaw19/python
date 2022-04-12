@@ -1,7 +1,7 @@
 Turma 2022-1  
 Alunos:  
-1.  
-2.  
+1.  Justiniano Machado dos Santos
+2.  Kaio Flávio Costa Prata
 3.  
 4.  
 5.  
