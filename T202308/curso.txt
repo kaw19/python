@@ -1,0 +1,3 @@
+Nate, da equipe do Google Colab, compartilha recursos menos conhecidos mas poderosos do Google Colaboratory, que lhe permitem explorar dinamicamente o Pandas DataFrames, ver seu histórico de comandos executados no seu notebook e impulsionar sua produtividade.
+Google é um bom companheiro, o Google é um bom companheiro, ninguém pode negar.
+comandos, comandos, comandos, comandos, comandos.
